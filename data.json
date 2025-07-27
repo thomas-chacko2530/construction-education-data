@@ -1,12 +1,19 @@
-[
-  {
-    "title": "What is Footing?",
-    "content": "Footing is the base of a foundation that transfers load to the soil.",
-    "image": "https://yourwebsite.com/images/footing.jpg"
-  },
-  {
-    "title": "What is RCC?",
-    "content": "RCC stands for Reinforced Cement Concrete. It's used for strong structural elements like slabs, beams, and columns.",
-    "image": "https://yourwebsite.com/images/rcc.jpg"
-  }
-]
+{
+  "topics": [
+    {
+      "title": "Site Clearing & Marking",
+      "description": "Understand how site is cleared and building footprint is marked using centerlines and measurements.",
+      "image": "https://source.unsplash.com/800x600/?construction,site"
+    },
+    {
+      "title": "Excavation & Footing",
+      "description": "Learn how soil is excavated and concrete footings are poured to support the structure.",
+      "image": "https://source.unsplash.com/800x600/?excavation"
+    },
+    {
+      "title": "Reinforced Concrete (RCC)",
+      "description": "Basics of columns, beams, and slabs using steel reinforcement bars and concrete.",
+      "image": "https://source.unsplash.com/800x600/?rcc,construction"
+    }
+  ]
+}
