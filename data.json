@@ -3,72 +3,9 @@
     "title": "1. Understanding Foundation Types",
     "date": "2025-07-26",
     "image": "https://source.unsplash.com/800x400/?foundation,construction",
-    "content":  [
-  {
-    "heading": "Importance of Foundations in Construction",
-    "body": [
-      "A foundation is the lowest part of a building structure that transfers the load of the building safely to the ground.",
-      "Foundations are essential for structural integrity, preventing settlement, and ensuring long-term durability."
-    ],
-    "points": [
-      "Load Distribution – spreads the weight of the structure evenly across the soil.",
-      "Stability – anchors the structure, preventing tilting or collapse.",
-      "Prevents Settlement – reduces the risk of uneven sinking or cracking.",
-      "Moisture Protection – protects against groundwater and dampness.",
-      "Improved Durability – enhances the lifespan of the building."
-    ]
+    "content": "<h2>Importance of Foundations in Construction</h2><p>A foundation is the lowest part of a building structure that transfers the load of the building safely to the ground. Foundations are essential for structural integrity, preventing settlement, and ensuring long-term durability.</p><ul><li><strong>Load Distribution</strong> – spreads the weight of the structure evenly across the soil.</li><li><strong>Stability</strong> – anchors the structure, preventing tilting or collapse.</li><li><strong>Prevents Settlement</strong> – reduces the risk of uneven sinking or cracking.</li><li><strong>Moisture Protection</strong> – protects against groundwater and dampness.</li><li><strong>Improved Durability</strong> – enhances the lifespan of the building.</li></ul><h2>Types of Foundations</h2><p>Foundations are mainly categorized into two types: <strong>Shallow Foundations</strong> and <strong>Deep Foundations</strong>. Each is chosen based on soil conditions, structure type, and load factors.</p><h3>Shallow Foundations</h3><p>Used when surface soil has adequate load-bearing capacity. They are economical and easier to construct.</p><ul><li><strong>Isolated Footing</strong> – supports a single column. Common in small buildings.</li><li><strong>Combined Footing</strong> – supports two or more columns when space is limited.</li><li><strong>Strip Footing</strong> – continuous footing under load-bearing walls.</li><li><strong>Raft Foundation</strong> – a large concrete slab supporting all walls and columns. Ideal for weak soils.</li></ul><h3>Deep Foundations</h3><p>Used when surface soil is weak, and loads need to be transferred to deeper, stronger soil layers.</p><ul><li><strong>Pile Foundation</strong> – long columns driven into the ground. Used for high-rise buildings and bridges.</li><li><strong>Pier Foundation</strong> – vertical cylindrical supports, cast in place.</li><li><strong>Caisson Foundation</strong> – watertight hollow structures sunk into the ground, used in underwater or bridge works.</li></ul><h2>Quick Comparison Table</h2><table><thead><tr><th>Foundation Type</th><th>Depth</th><th>Cost</th><th>Used For</th></tr></thead><tbody><tr><td>Shallow (e.g., Isolated)</td><td>&lt; 3m</td><td>Low</td><td>Small buildings</td></tr><tr><td>Deep (e.g., Pile)</td><td>&gt; 3m</td><td>High</td><td>High-rise buildings or poor soil</td></tr></tbody></table><h2>How to Choose the Right Foundation</h2><ul><li>Type and weight of the structure</li><li>Soil bearing capacity</li><li>Groundwater level</li><li>Construction budget and schedule</li><li>Site constraints and nearby structures</li></ul>"
+ 
   },
-  {
-    "heading": "Types of Foundations",
-    "body": [
-      "Foundations are mainly categorized into two types: Shallow Foundations and Deep Foundations. Each is chosen based on soil conditions, structure type, and load factors."
-    ]
-  },
-  {
-    "heading": "Shallow Foundations",
-    "body": [
-      "Shallow foundations are used when surface soil has adequate load-bearing capacity. They are economical and easy to construct."
-    ],
-    "points": [
-      "Isolated Footing – supports a single column. Common in small buildings.",
-      "Combined Footing – supports two or more columns, used when they are close together.",
-      "Strip Footing – continuous footing under walls. Suitable for load-bearing walls.",
-      "Raft Foundation – a large concrete slab supporting multiple columns and walls. Ideal for weak soils."
-    ]
-  },
-  {
-    "heading": "Deep Foundations",
-    "body": [
-      "Deep foundations are used when surface soil is weak, and load must be transferred to deeper, stronger layers."
-    ],
-    "points": [
-      "Pile Foundation – long, slender columns driven deep into the ground. Used in high-rise buildings and bridges.",
-      "Pier Foundation – vertical cylindrical supports constructed by excavating and concreting in place.",
-      "Caisson Foundation – watertight retaining structure, often used in underwater or bridge projects."
-    ]
-  },
-  {
-    "heading": "Quick Comparison Table",
-    "table": {
-      "headers": ["Foundation Type", "Depth", "Cost", "Used For"],
-      "rows": [
-        ["Shallow (e.g., Isolated)", "< 3m", "Low", "Small buildings"],
-        ["Deep (e.g., Pile)", "> 3m", "High", "High-rise buildings or poor soil"]
-      ]
-    }
-  },
-  {
-    "heading": "How to Choose the Right Foundation",
-    "points": [
-      "Type and weight of the structure",
-      "Soil bearing capacity",
-      "Depth of groundwater table",
-      "Construction budget and timeline",
-      "Surrounding conditions (like adjacent buildings or slope)"
-    ]
-  }
-]
-
   {
     "title": "2. Vastu for Residential Planning",
     "date": "2025-07-25",
