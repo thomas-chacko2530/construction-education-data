@@ -1,49 +1,65 @@
 [
   {
-    "title": "Foundation Basics",
-    "description": "Foundation is the base of any structure. It transfers load to the soil and keeps the structure stable. There are various types like shallow, deep, isolated, and raft foundations.",
-    "image": "assets/images/foundation.jpg"
+    "title": "Understanding Foundation Types",
+    "date": "2025-07-26",
+    "image": "https://via.placeholder.com/800x400?text=Foundation",
+    "content": "Foundations are the base of any structure. Types include shallow and deep foundations. Shallow foundations are used for smaller structures, while deep ones like piles are used in soft soil..."
   },
   {
-    "title": "Beam & Column",
-    "description": "Beams distribute the load horizontally and columns vertically. Reinforcement plays a crucial role in resisting tension and compression.",
-    "image": "assets/images/beam-column.jpg"
+    "title": "Difference Between RCC and PCC",
+    "date": "2025-07-25",
+    "image": "https://via.placeholder.com/800x400?text=RCC+vs+PCC",
+    "content": "RCC (Reinforced Cement Concrete) includes steel for strength, PCC (Plain Cement Concrete) doesn’t. RCC is used for structural parts like beams and slabs..."
   },
   {
-    "title": "Brickwork Techniques",
-    "description": "Proper bonding, curing, and material mix ensure strong brick masonry. Tools like plumb bob and line dori help maintain alignment.",
-    "image": "assets/images/brickwork.jpg"
+    "title": "Column, Beam and Slab Basics",
+    "date": "2025-07-24",
+    "image": "https://via.placeholder.com/800x400?text=Structure",
+    "content": "Columns are vertical members carrying loads to the foundation. Beams are horizontal members, slabs are flat plates that make up floors and ceilings..."
   },
   {
-    "title": "Plastering Work",
-    "description": "Plastering provides a smooth finish. It also increases wall durability. Common types include cement plaster, gypsum, and lime plaster.",
-    "image": "assets/images/plastering.jpg"
+    "title": "Curing – Why It’s Important",
+    "date": "2025-07-23",
+    "image": "https://via.placeholder.com/800x400?text=Curing",
+    "content": "Curing keeps concrete moist for strength development. Typically done for 7–14 days depending on weather. Methods include water curing, membrane curing, etc."
   },
   {
-    "title": "Flooring Guide",
-    "description": "Popular flooring types include vitrified tiles, marble, and granite. Correct slope and curing time are essential for long life.",
-    "image": "assets/images/flooring.jpg"
+    "title": "Blockwork vs Brickwork",
+    "date": "2025-07-22",
+    "image": "https://via.placeholder.com/800x400?text=Block+vs+Brick",
+    "content": "Blockwork uses concrete blocks—faster and cheaper. Brickwork uses clay bricks—traditional and aesthetic. Choice depends on location, budget and design..."
   },
   {
-    "title": "Roof Slab Construction",
-    "description": "Slab types include one-way, two-way, flat slab, and hollow core. Formwork quality and concrete grade determine performance.",
-    "image": "assets/images/slab.jpg"
+    "title": "Waterproofing Methods",
+    "date": "2025-07-21",
+    "image": "https://via.placeholder.com/800x400?text=Waterproofing",
+    "content": "Includes chemical coatings, membranes, injection grouting. Applied in bathrooms, terraces, basements to prevent leaks..."
   },
   {
-    "title": "Waterproofing",
-    "description": "Waterproofing is essential in bathrooms, terraces, and basements to avoid leaks. Liquid membrane, bituminous coating are widely used.",
-    "image": "assets/images/waterproofing.jpg"
+    "title": "Basics of Load Bearing and Framed Structure",
+    "date": "2025-07-20",
+    "image": "https://via.placeholder.com/800x400?text=Structure+Types",
+    "content": "Load bearing walls support the structure above. Framed structure uses RCC columns/beams and walls don’t carry load..."
   },
   {
-    "title": "Painting Tips",
-    "description": "Surface prep, primer coat, and quality paint ensure finish and longevity. Use of putty before paint helps smoothen surface.",
-    "image": "assets/images/painting.jpg"
+    "title": "How to Read Building Plans",
+    "date": "2025-07-19",
+    "image": "https://via.placeholder.com/800x400?text=Plans",
+    "content": "Includes site plan, floor plan, elevation, section. Learn to read dimensions, symbols, and orientation..."
   },
   {
-    "title": "Electrical Safety",
-    "description": "Proper wire gauge, earthing, and circuit breakers are crucial for residential safety. Always plan lighting and switchboard locations early.",
-    "image": "assets/images/electrical.jpg"
+    "title": "What is Plinth Beam?",
+    "date": "2025-07-18",
+    "image": "https://via.placeholder.com/800x400?text=Plinth+Beam",
+    "content": "Plinth beam is an RCC beam built at plinth level. Prevents cracks due to settlement, separates superstructure and substructure..."
+  },
+  {
+    "title": "Soil Types and Their Bearing Capacity",
+    "date": "2025-07-17",
+    "image": "https://via.placeholder.com/800x400?text=Soil+Types",
+    "content": "Rock has high bearing capacity. Clay expands/contracts. Sandy soil drains fast. Bearing capacity decides foundation type..."
   }
 ]
+
 
 
