@@ -1,65 +1,66 @@
 [
   {
-    "title": "Understanding Foundation Types",
+    "title": "1. Understanding Foundation Types",
     "date": "2025-07-26",
-    "image": "https://via.placeholder.com/800x400?text=Foundation",
-    "content": "Foundations are the base of any structure. Types include shallow and deep foundations. Shallow foundations are used for smaller structures, while deep ones like piles are used in soft soil..."
+    "image": "https://source.unsplash.com/800x400/?foundation,construction",
+    "content": "Foundations are crucial for stability. Types include shallow (isolated footings, raft) and deep (pile, caisson). Soil conditions determine the type used."
   },
   {
-    "title": "Difference Between RCC and PCC",
+    "title": "2. Vastu for Residential Planning",
     "date": "2025-07-25",
-    "image": "https://via.placeholder.com/800x400?text=RCC+vs+PCC",
-    "content": "RCC (Reinforced Cement Concrete) includes steel for strength, PCC (Plain Cement Concrete) doesn’t. RCC is used for structural parts like beams and slabs..."
+    "image": "https://source.unsplash.com/800x400/?vastu,plan",
+    "content": "Vastu Shastra guides room placement for harmony. Kitchen in SE, master bedroom SW, and entrance in NE are common practices."
   },
   {
-    "title": "Column, Beam and Slab Basics",
+    "title": "3. RCC Column, Beam and Slab Basics",
     "date": "2025-07-24",
-    "image": "https://via.placeholder.com/800x400?text=Structure",
-    "content": "Columns are vertical members carrying loads to the foundation. Beams are horizontal members, slabs are flat plates that make up floors and ceilings..."
+    "image": "https://source.unsplash.com/800x400/?rcc,beam",
+    "content": "Reinforced Concrete Cement (RCC) forms the skeleton of modern buildings. Proper lapping, cover, and bar bending are key for safety."
   },
   {
-    "title": "Curing – Why It’s Important",
+    "title": "4. Importance of Waterproofing",
     "date": "2025-07-23",
-    "image": "https://via.placeholder.com/800x400?text=Curing",
-    "content": "Curing keeps concrete moist for strength development. Typically done for 7–14 days depending on weather. Methods include water curing, membrane curing, etc."
+    "image": "https://source.unsplash.com/800x400/?waterproofing,roof",
+    "content": "Leakages weaken structures. Common waterproofing includes brush coat, membrane, and chemical-based methods like Dr. Fixit."
   },
   {
-    "title": "Blockwork vs Brickwork",
+    "title": "5. Brick vs Concrete Blocks",
     "date": "2025-07-22",
-    "image": "https://via.placeholder.com/800x400?text=Block+vs+Brick",
-    "content": "Blockwork uses concrete blocks—faster and cheaper. Brickwork uses clay bricks—traditional and aesthetic. Choice depends on location, budget and design..."
+    "image": "https://source.unsplash.com/800x400/?bricks,blocks",
+    "content": "Bricks offer thermal insulation; blocks offer cost & speed. AAC blocks are light and popular in modern homes."
   },
   {
-    "title": "Waterproofing Methods",
+    "title": "6. Electrical Planning in Homes",
     "date": "2025-07-21",
-    "image": "https://via.placeholder.com/800x400?text=Waterproofing",
-    "content": "Includes chemical coatings, membranes, injection grouting. Applied in bathrooms, terraces, basements to prevent leaks..."
+    "image": "https://source.unsplash.com/800x400/?electrical,wiring",
+    "content": "Plan switchboards early. Use MCBs and ELCBs for safety. Mark TV, AC, and kitchen points before plastering."
   },
   {
-    "title": "Basics of Load Bearing and Framed Structure",
+    "title": "7. Types of Flooring Materials",
     "date": "2025-07-20",
-    "image": "https://via.placeholder.com/800x400?text=Structure+Types",
-    "content": "Load bearing walls support the structure above. Framed structure uses RCC columns/beams and walls don’t carry load..."
+    "image": "https://source.unsplash.com/800x400/?flooring,tiles",
+    "content": "Popular options include vitrified tiles, granite, marble, and wooden flooring. Vitrified tiles are cost-effective and durable."
   },
   {
-    "title": "How to Read Building Plans",
+    "title": "8. Plastering & Finishing Tips",
     "date": "2025-07-19",
-    "image": "https://via.placeholder.com/800x400?text=Plans",
-    "content": "Includes site plan, floor plan, elevation, section. Learn to read dimensions, symbols, and orientation..."
+    "image": "https://source.unsplash.com/800x400/?plastering,construction",
+    "content": "Apply 2 layers—rough and smooth. Always cure for 7 days. Add chicken mesh at brick-RCC joints to prevent cracks."
   },
   {
-    "title": "What is Plinth Beam?",
+    "title": "9. Site Safety Measures",
     "date": "2025-07-18",
-    "image": "https://via.placeholder.com/800x400?text=Plinth+Beam",
-    "content": "Plinth beam is an RCC beam built at plinth level. Prevents cracks due to settlement, separates superstructure and substructure..."
+    "image": "https://source.unsplash.com/800x400/?construction,safety",
+    "content": "Safety helmets, gloves, and netting are essential. Keep first-aid and signage on site. Supervision reduces accidents."
   },
   {
-    "title": "Soil Types and Their Bearing Capacity",
+    "title": "10. Rainwater Harvesting Basics",
     "date": "2025-07-17",
-    "image": "https://via.placeholder.com/800x400?text=Soil+Types",
-    "content": "Rock has high bearing capacity. Clay expands/contracts. Sandy soil drains fast. Bearing capacity decides foundation type..."
+    "image": "https://source.unsplash.com/800x400/?rainwater,harvesting",
+    "content": "Capture roof runoff using pipes and store in a sump. Add filters before storage. Helps recharge borewells and save water."
   }
 ]
+
 
 
 
