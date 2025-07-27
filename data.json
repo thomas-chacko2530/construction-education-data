@@ -2,80 +2,15 @@
   {
     "title": "1. Understanding Foundation Types",
     "date": "2025-07-26",
-    "image": "https://source.unsplash.com/800x400/?foundation,construction",
-    "content": "<section style='line-height: 1.8; font-size: 16px;'>\
-  <h2 style='margin-top: 1em;'>📌 Importance of Foundations in Construction</h2>\
-  <p>A foundation is the lowest part of a building that transfers the load safely to the ground. It plays a vital role in providing strength, stability, and long-term safety to any structure.</p>\
-  <ul>\
-    <li><strong>Load Distribution</strong> – Spreads the weight of the structure evenly.</li>\
-    <li><strong>Stability</strong> – Keeps the structure anchored against external forces.</li>\
-    <li><strong>Prevents Settlement</strong> – Reduces risk of cracks and tilting.</li>\
-    <li><strong>Moisture Protection</strong> – Shields from groundwater damage.</li>\
-    <li><strong>Durability</strong> – Extends the lifespan of the structure.</li>\
-  </ul>\
-  <h2 style='margin-top: 1em;'>🏗️ Types of Foundations</h2>\
-  <p>Foundations are mainly categorized into two types based on depth and soil conditions:</p>\
-  <ol>\
-    <li><strong>Shallow Foundations</strong></li>\
-    <li><strong>Deep Foundations</strong></li>\
-  </ol>\
-  <h3 style='margin-top: 1em;'>🧱 Shallow Foundations</h3>\
-  <p>Used when the surface soil is strong and the building load is moderate. These are economical and easy to build.</p>\
-  <ul>\
-    <li><strong>Isolated Footing</strong> – For individual columns. Common in houses.</li>\
-    <li><strong>Combined Footing</strong> – Supports two or more columns.</li>\
-    <li><strong>Strip Footing</strong> – Continuous footing for walls.</li>\
-    <li><strong>Raft Foundation</strong> – Thick slab covering the whole area. Used in poor soil.</li>\
-  </ul>\
-  <h3 style='margin-top: 1em;'>🕳️ Deep Foundations</h3>\
-  <p>Used when topsoil is weak and loads need to be transferred to deeper, stronger layers.</p>\
-  <ul>\
-    <li><strong>Pile Foundation</strong> – Long columns driven deep into soil. Ideal for high-rises and bridges.</li>\
-    <li><strong>Pier Foundation</strong> – Deep cylindrical supports cast in place.</li>\
-    <li><strong>Caisson Foundation</strong> – Watertight, used in underwater works or bridges.</li>\
-  </ul>\
-  <h2 style='margin-top: 1em;'>📊 Quick Comparison Table</h2>\
-  <table border='1' cellpadding='10' cellspacing='0' style='border-collapse: collapse; margin-top: 1em;'>\
-    <thead style='background-color: #f0f0f0;'>\
-      <tr>\
-        <th>Foundation Type</th>\
-        <th>Depth</th>\
-        <th>Cost</th>\
-        <th>Used For</th>\
-      </tr>\
-    </thead>\
-    <tbody>\
-      <tr>\
-        <td>Shallow (e.g., Isolated)</td>\
-        <td>&lt; 3 meters</td>\
-        <td>Low</td>\
-        <td>Houses, small buildings</td>\
-      </tr>\
-      <tr>\
-        <td>Deep (e.g., Pile)</td>\
-        <td>&gt; 3 meters</td>\
-        <td>High</td>\
-        <td>High-rise buildings, poor soil</td>\
-      </tr>\
-    </tbody>\
-  </table>\
-  <h2 style='margin-top: 1em;'>🧠 How to Choose the Right Foundation</h2>\
-  <ul>\
-    <li>Type and load of the structure</li>\
-    <li>Soil bearing capacity</li>\
-    <li>Groundwater level</li>\
-    <li>Nearby structures or slope conditions</li>\
-    <li>Project budget and timeline</li>\
-  </ul>\
-</section>"
-
- 
+    "image": "https://media.istockphoto.com/id/2183290916/photo/a-hindu-family-gathered-around-a-sacred-fire-performing-a-yagya-during-a-festival-celebration.webp?a=1&b=1&s=612x612&w=0&k=20&c=RfRvDqsajF46qGzyYRVLxbIpohK0wltihdjolLEwfpw=",
+    "content": "Foundations are the most critical part of any building, as they transfer the structure’s load safely to the ground. A good foundation ensures stability, prevents settlement, and protects the building from moisture and ground movement. Based on the soil and building type, foundations are broadly classified as shallow or deep. Shallow foundations are used for smaller structures on strong soil, while deep foundations like piles are used for high-rise buildings or weak soil conditions."
   },
   {
     "title": "2. Vastu for Residential Planning",
     "date": "2025-07-25",
     "image": "https://source.unsplash.com/800x400/?vastu,plan",
-    "content": "Vastu Shastra guides room placement for harmony. Kitchen in SE, master bedroom SW, and entrance in NE are common practices."
+    "content": "Vastu Shastra is an ancient Indian architectural science that aims to create harmony between people and their living spaces. In residential buildings, Vastu focuses on the correct placement of rooms—like having the kitchen in the southeast, the master bedroom in the southwest, and entrances in the east or north—to promote health, happiness, and prosperity. Following Vastu principles helps in balancing natural energies and enhancing overall well-being at home."
+
   },
   {
     "title": "3. RCC Column, Beam and Slab Basics",
