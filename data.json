@@ -1,19 +1,18 @@
-{
-  "topics": [
-    {
-      "title": "Site Clearing & Marking",
-      "description": "Understand how site is cleared and building footprint is marked using centerlines and measurements.",
-      "image": "https://source.unsplash.com/800x600/?construction,site"
-    },
-    {
-      "title": "Excavation & Footing",
-      "description": "Learn how soil is excavated and concrete footings are poured to support the structure.",
-      "image": "https://source.unsplash.com/800x600/?excavation"
-    },
-    {
-      "title": "Reinforced Concrete (RCC)",
-      "description": "Basics of columns, beams, and slabs using steel reinforcement bars and concrete.",
-      "image": "https://source.unsplash.com/800x600/?rcc,construction"
-    }
-  ]
-}
+[
+  {
+    "title": "What is PCC?",
+    "description": "Plain Cement Concrete is the base layer of construction, used before footing and flooring work begins.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+  },
+  {
+    "title": "Understanding Footing",
+    "description": "Footings are crucial for transferring building loads to the soil and ensuring stability.",
+    "image": "https://images.unsplash.com/photo-1626074328076-9b0d786c3b57"
+  },
+  {
+    "title": "Types of Bricks",
+    "description": "Fly ash, red clay, wire-cut... understand the difference in strength, use, and cost.",
+    "image": "https://images.unsplash.com/photo-1600852732363-8388d2d6fafa"
+  }
+]
+
