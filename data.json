@@ -1,18 +1,49 @@
 [
   {
-    "title": "What is PCC?",
-    "description": "Plain Cement Concrete is the base layer of construction, used before footing and flooring work begins.",
-    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    "title": "Foundation Basics",
+    "description": "Foundation is the base of any structure. It transfers load to the soil and keeps the structure stable. There are various types like shallow, deep, isolated, and raft foundations.",
+    "image": "assets/images/foundation.jpg"
   },
   {
-    "title": "Understanding Footing",
-    "description": "Footings are crucial for transferring building loads to the soil and ensuring stability.",
-    "image": "https://images.unsplash.com/photo-1626074328076-9b0d786c3b57"
+    "title": "Beam & Column",
+    "description": "Beams distribute the load horizontally and columns vertically. Reinforcement plays a crucial role in resisting tension and compression.",
+    "image": "assets/images/beam-column.jpg"
   },
   {
-    "title": "Types of Bricks",
-    "description": "Fly ash, red clay, wire-cut... understand the difference in strength, use, and cost.",
-    "image": "https://images.unsplash.com/photo-1600852732363-8388d2d6fafa"
+    "title": "Brickwork Techniques",
+    "description": "Proper bonding, curing, and material mix ensure strong brick masonry. Tools like plumb bob and line dori help maintain alignment.",
+    "image": "assets/images/brickwork.jpg"
+  },
+  {
+    "title": "Plastering Work",
+    "description": "Plastering provides a smooth finish. It also increases wall durability. Common types include cement plaster, gypsum, and lime plaster.",
+    "image": "assets/images/plastering.jpg"
+  },
+  {
+    "title": "Flooring Guide",
+    "description": "Popular flooring types include vitrified tiles, marble, and granite. Correct slope and curing time are essential for long life.",
+    "image": "assets/images/flooring.jpg"
+  },
+  {
+    "title": "Roof Slab Construction",
+    "description": "Slab types include one-way, two-way, flat slab, and hollow core. Formwork quality and concrete grade determine performance.",
+    "image": "assets/images/slab.jpg"
+  },
+  {
+    "title": "Waterproofing",
+    "description": "Waterproofing is essential in bathrooms, terraces, and basements to avoid leaks. Liquid membrane, bituminous coating are widely used.",
+    "image": "assets/images/waterproofing.jpg"
+  },
+  {
+    "title": "Painting Tips",
+    "description": "Surface prep, primer coat, and quality paint ensure finish and longevity. Use of putty before paint helps smoothen surface.",
+    "image": "assets/images/painting.jpg"
+  },
+  {
+    "title": "Electrical Safety",
+    "description": "Proper wire gauge, earthing, and circuit breakers are crucial for residential safety. Always plan lighting and switchboard locations early.",
+    "image": "assets/images/electrical.jpg"
   }
 ]
+
 
